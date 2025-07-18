@@ -1,6 +1,8 @@
 # COVID Smackdown Protocol
 
-A protocol for when u have covid, disclaimer not medical advice and all that liability stuff. i wrote this w the help of chatgpt. A personal COVID protocol that aggressively targets the virus from all angles: viral replication, inflammation, oxidative stress, and recovery. May knock covid out sooner and give continued support to prevent rebound or long COVID.
+A protocol for when u have covid, disclaimer not medical advice and all that liability stuff. i wrote this w the help of chatgpt. A personal COVID protocol that aggressively targets the virus from all angles: viral replication, inflammation, oxidative stress, and recovery. May knock covid out sooner and give continued support to prevent rebound or long COVID. 
+
+## IMPORTANT: DO NOT EXERCISE SOON AFTER COVID. EVEN FOR A MILD CASE GIVE IT TWO WEEKS I THINK
 
 ---
 
